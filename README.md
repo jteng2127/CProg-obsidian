@@ -1,5 +1,7 @@
 # 競賽程設
 
+請使用obsidian開啟
+
 [programming](file:///C:\Users\User\Documents\programming)
 [Open vscode here](vscode.cmd)
 
