@@ -2,7 +2,7 @@
 
 contest: [[CFICPC/101243/101243|2016-2017 ACM-ICPC, NEERC, Central Subregional Contest]]
 url: https://codeforces.com/gym/101243/problem/F
-Status: #UNSOLVED
+#Status/UNSOLVED
 Tags: #
 
 ## Description

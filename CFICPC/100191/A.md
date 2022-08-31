@@ -2,7 +2,7 @@
 
 contest: [[CFICPC/100191/100191|2012-2013 CTU Open Contest]]
 url: https://codeforces.com/gym/100191/problem/A
-Status: #UNSOLVED
+#Status/UNSOLVED
 Tags: #
 
 ## Description
