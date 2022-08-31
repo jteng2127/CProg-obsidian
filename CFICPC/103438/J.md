@@ -2,7 +2,7 @@
 
 contest: [[CFICPC/103438/103438|2021 ICPC Southeastern Europe Regional Contest]]
 url: https://codeforces.com/gym/103438/problem/J
-Status: #READYCORRECT 
+#Status/READYCORRECT 
 Tags: #MEDIUM #括號配對
 
 ## Description
