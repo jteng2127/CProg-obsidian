@@ -47,6 +47,8 @@
 13. [Self-deception: maybe why you're still grey after practicing every day](https://codeforces.com/blog/entry/98621)
 14. [A Way to Practice Competitive Programming](https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view)
 15. [tr0j4n034/SPOJ solutions](https://github.com/tr0j4n034/SPOJ)
+16. [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
+17. [Codeforces Extensions](https://codeforces.com/blog/entry/82884)
 
 ### 高高
 
