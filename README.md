@@ -49,6 +49,7 @@
 15. [tr0j4n034/SPOJ solutions](https://github.com/tr0j4n034/SPOJ)
 16. [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
 17. [Codeforces Extensions](https://codeforces.com/blog/entry/82884)
+18. [2016建中校內培訓講義](https://tioj.ck.tp.edu.tw/articles/5)
 
 ### 高高
 
