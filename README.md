@@ -68,3 +68,4 @@
 
 ## 競程用不到 暫放
 
+[gogo](obsidian://open?vault=myDaily&file=daily_note%2FTodo)
